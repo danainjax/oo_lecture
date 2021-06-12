@@ -1,0 +1,46 @@
+html {
+    font-family: fantasy;
+}
+
+.head {
+    background-color: chartreuse;
+}
+
+.form {
+    background-color: blanchedalmond ;
+    padding: 100px;
+    font-size: x-large;
+    
+}
+
+.input {
+    font-size: x-large;
+}
+
+.roster {
+    background-color: rgb(255, 80, 211);
+    padding: 100px;
+}
+
+
+td {
+    border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+    padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 100px;
+  padding-left: 100px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: white;
+}
+ tr {
+    background-color: rgb(147, 220, 238);
+    
+ }
+ 
+
+ 
